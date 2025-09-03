@@ -33,9 +33,9 @@ This lab simulates an enterprise IT environment where Active Directory (AD) is i
 ## Setup Instructions
 
 ### Windows Server (AD DS)
-1. Install Windows Server 2019/2022 VM.  
+1. Install Windows Server 2022 ISO.  
 2. Add the **Active Directory Domain Services** role.  
-3. Create domain (e.g., `corp.local`), OUs, groups, and users.  
+3. Create domain (e.g., `mydomain.com`), OUs, groups, and users.  
 4. Configure Windows clients to join the domain.  
 
 ### Peppermint Helpdesk
@@ -58,8 +58,9 @@ This lab simulates an enterprise IT environment where Active Directory (AD) is i
 4. Technician marks ticket as resolved in Peppermint.  
 
 ## Technologies Used
-- Windows Server 2019/2022  
-- Windows 10/11 Clients  
+- Windows Server 2022  
+- Windows 11 Clients
+- Oracle Virtualbox
 - Peppermint Helpdesk  
 - Linux Host (Ubuntu/Debian recommended)  
 - LAMP/LEMP Stack (Apache/Nginx, PHP, MySQL/MariaDB)  
