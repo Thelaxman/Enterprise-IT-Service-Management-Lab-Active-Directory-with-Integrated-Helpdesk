@@ -1,8 +1,6 @@
 # Project Outline: Enterprise IT Service Management Lab
 
-
 ![Active Directory Users and Computers](/screenshots/ad-users.png)
-
 
 
 ## Overview
