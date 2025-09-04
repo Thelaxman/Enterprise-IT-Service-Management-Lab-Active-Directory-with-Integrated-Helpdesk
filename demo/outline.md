@@ -1,5 +1,10 @@
 # Project Outline: Enterprise IT Service Management Lab
 
+
+![Active Directory Users and Computers](/screenshots/ad-users.png)
+
+
+
 ## Overview
 This lab simulates a real-world enterprise IT environment with **Active Directory Domain Services (AD DS)** running on Windows Server 2022 and a **Windows 11 client** joined to the domain.  
 The setup demonstrates networking, DHCP, NAT/RRAS, domain integration, and automated user provisioning.  
